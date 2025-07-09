@@ -151,4 +151,4 @@ ETIQUETAGEM: Crie uma tag hierárquica para cada cartão no formato 'Materia::Au
 
 > ### Dica de Elite: Foco Cirúrgico
 >
-> Após importar e estudar, você pode usar as tags para criar sessões de estudo focadas. Vá em `Ferramentas` > `Criar Baral
+> Após importar e estudar, você pode usar as tags para criar sessões de estudo focadas. Vá em `Ferramentas` > `Criar Baralho Filtrado` e use uma busca como `tag:FSI::Aula_02` para revisar apenas os cartões daquela aula específica, ou `tag:FSI::*::Definicao` para revisar todas as definições da matéria.
